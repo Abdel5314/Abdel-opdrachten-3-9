@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    font-size: 26px;
+    font-weight: bolder;
+    font-style: italic;
+  }
+
+h2 {
+   font-size: 20px;
+   color: blue;
+   font-weight: bolder;
+}
+
+h3 {
+   font-size: 16px;
+   color: teal;
+   font-weight: bolder;
+}
+
+p {
+   color: black;
+
+
+}
+h4 {
+    font-weight: bolder;
+}
+
+a {
+   color: #8A2BE2;
+
+}
+
+a:link {text-decoration: none;}
+
+header {
+    color:blue ;
+}

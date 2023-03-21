@@ -1,0 +1,64 @@
+* 
+html {
+  font-size: 62%;
+}
+body {
+  font-family: "Goldman", cursive;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  padding: 2rem;
+  min-height: 10vh;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+  background: lightseagreen;
+  justify-content: space-between;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+nav li {
+  font-size: 2.5rem;
+  padding: 0 4rem 0 4rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav img {
+  width: 5vw;
+}
+.tekst
+{
+font-size: 24px;  
+font-family: Verdana;
+list-style-type: circle;
+}
+.tekst2
+{
+font-size: 24px;  
+font-family: Verdana;
+}
+body{
+  background-color: black;
+  background-image: url(hacker.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+p{
+  color: white;
+}
+li{
+  color: lightseagreen;
+  font-weight: bold;
+} 
+footer {
+    text-align:left;
+    padding: 60px;
+    background-color:lightseagreen;
+}

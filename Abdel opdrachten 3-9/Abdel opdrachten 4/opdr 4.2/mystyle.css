@@ -1,0 +1,54 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+    font-weight: bolder;
+    font-style: italic;
+  }
+
+h2 {
+   font-size: 20px;
+   color: blue;
+   font-weight: bolder;
+}
+
+h3 {
+   font-size: 16px;
+   color: teal;
+   font-weight: bolder;
+}
+
+p {
+   color: black;
+   
+
+}
+h4 {
+    font-weight: bolder;
+    
+}
+
+a {
+   color: #8A2BE2;
+}
+
+a:link {text-decoration: none;}
+
+p1{
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+header {
+height: 33%;
+width: 100%;
+background-repeat: no-repeat;
+align-items: center;
+background-image:url(https://images.hdqwalls.com/wallpapers/call-of-duty-black-ops-3.jpg)
+
+}
+
+article {
+   border: 2px solid blue;
+   border-radius: 5px;
+  border-left-width: 10px;
+}
